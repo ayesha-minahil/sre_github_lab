@@ -27,7 +27,7 @@ The Student Task Tracker is a simple system designed to help students manage and
 alone, verified against each documented task workflow.
 
 ## Acceptance Criteria
-- FR-01: Given the title "Read Chapter 1", saving a new task
+- Given that a student enters "Read Chapter 1" as a task title, when the student clicks the Save button, then the system shall display "Read Chapter 1" in the task list immediately after saving.
 causes that title to appear in the task list.
 - FR-02: With two saved tasks, opening the list shows both titles.
 - FR-03: Marking an incomplete task complete changes its displayed
